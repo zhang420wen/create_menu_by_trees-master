@@ -1,0 +1,48 @@
+{
+	1.menu10001
+	2.menu20100
+	{
+		1.menu70200
+		{
+			1.menu80300
+			{
+				1.menu90002
+				2.menu100003
+				3.exit0000
+			}
+			2.menu110004
+			3.menu120005
+			4.exit0000
+		}
+		2.menu130006
+		3.menu140007
+		4.exit0000
+	}
+	3.menu30008
+	4.menu40400
+	{
+		1.menu150009
+		2.menu160500
+		{
+			1.menu170600
+			{
+				1.menu180700
+				{
+					1.menu20000A
+					2.exit0000
+				}
+				
+				
+				2.menu19000B
+				3.exit0000
+			}
+			2.menu22000C
+			3.exit0000
+		}
+		3.menu21000D
+		4.exit0000
+	}
+	5.menu5000E
+	6.menu6000F
+	7.exit0000
+}
